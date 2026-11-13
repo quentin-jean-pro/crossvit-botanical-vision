@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+*.log
+*.pth
+*.pt
+data/
+
+
+# Personal interview docs
+GUIDE_ENTRETIEN_PERSO.md
+*ENTRETIEN*
+*perso*
+
+
+REPRISE_EN_MAIN_PROJETS.md
+*REPRISE*
+*reprise*
+
